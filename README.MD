@@ -1,27 +1,35 @@
-# 🎹 Dio-Simulador-Piano  
+# 🎹 Dio JS Music Keyboard Virtual
 
-Um **simulador interativo de piano virtual** desenvolvido para rodar diretamente no navegador.  
-Com ele, você pode tocar notas utilizando **o mouse** ou o **teclado físico**, além de controlar o **volume** e escolher se deseja **exibir ou ocultar** as letras das teclas.  
-
----
-
-## 🚀 Funcionalidades  
-
-✅ Tocar notas com o **mouse** ou **teclado físico**  
-✅ Controle de **volume ajustável**  
-✅ Opção para **mostrar/ocultar as letras das teclas**  
-✅ Interface simples e responsiva  
-✅ Ideal para praticar e aprender os sons das notas  
+Um **teclado musical virtual** desenvolvido com **HTML, CSS e JavaScript Vanilla**, onde você pode tocar notas tanto pelo **mouse** quanto pelo **teclado físico**.  
+Projeto feito como parte dos desafios da [DIO](https://www.dio.me/).
 
 ---
 
-## 🖥️ Tecnologias utilizadas  
+## 🚀 Demonstração
+
+👉 [Acesse o projeto online](https://catarinaguima.github.io/Dio-js-music-keyboard-virtual/)  
+
+![preview](https://github.com/CatarinaGuima/Dio-js-music-keyboard-virtual/raw/main/preview.png)
+
+---
+
+## ✨ Funcionalidades
+
+✅ Tocar notas clicando com o **mouse**  
+✅ Tocar notas usando o **teclado físico**  
+✅ **Feedback visual** nas teclas ao serem pressionadas  
+✅ Sons realistas de notas musicais  
+✅ Interface simples e intuitiva  
+
+---
+
+## 🛠️ Tecnologias utilizadas
 
 - **HTML5** → Estrutura da aplicação  
-- **CSS3** → Estilização e layout do piano  
-- **JavaScript** → Lógica, interatividade e reprodução dos sons  
+- **CSS3** → Estilização do teclado e layout responsivo  
+- **JavaScript (Vanilla)** → Lógica de reprodução dos sons e interações  
 
 ---
 
-## 📂 Estrutura do projeto  
+## 📂 Estrutura do projeto
 
