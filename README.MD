@@ -28,8 +28,3 @@ Projeto feito como parte dos desafios da [DIO](https://www.dio.me/).
 - **HTML5** → Estrutura da aplicação  
 - **CSS3** → Estilização do teclado e layout responsivo  
 - **JavaScript (Vanilla)** → Lógica de reprodução dos sons e interações  
-
----
-
-## 📂 Estrutura do projeto
-
