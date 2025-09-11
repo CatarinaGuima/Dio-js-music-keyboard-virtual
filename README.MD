@@ -9,7 +9,7 @@ Projeto feito como parte dos desafios da [DIO](https://www.dio.me/).
 
 👉 [Acesse o projeto online](https://catarinaguima.github.io/Dio-js-music-keyboard-virtual/)  
 
-![preview](https://github.com/CatarinaGuima/Dio-js-music-keyboard-virtual/raw/main/preview.png)
+![preview](image.png)
 
 ---
 
